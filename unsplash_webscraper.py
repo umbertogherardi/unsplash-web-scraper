@@ -10,7 +10,6 @@ from bs4 import BeautifulSoup
 import os
 import shutil
 import threading
-import time
 from selenium import webdriver
 
 
