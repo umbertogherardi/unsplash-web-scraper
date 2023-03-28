@@ -1,5 +1,5 @@
 # unsplash_webscraper
-A webscraper for Unsplash images. 
+A webscraper for Unsplash images, with resolution selection. Resolution options for a given search range from a width of ~100 pixels to ~2000 pixels.
 
 Current bugs/ minor issues: 
  - Although the scraper reportedly finds 60 images from a given search, only 20 are unique (we have 3 sets of the same images). 
