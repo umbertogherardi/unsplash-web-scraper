@@ -6,5 +6,5 @@ Current bugs/ minor issues:
  - Unsplash only displays 20 images per page using this static-scraping method.
  
  Future fixes/ TODO list:
- - Prevent the scraper from grabbing duplicate image urls (could probably be implemented by simply using a set).
+ - Prevent the scraper from grabbing duplicate image urls (could probably be implemented by using a set).
  - Determine how to request images directly from the Unsplash API, or use Selenium to dynamically scrape a webpage so we are not limited to 20 images per search.
