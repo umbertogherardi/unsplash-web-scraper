@@ -1,5 +1,5 @@
 # unsplash_webscraper
-A webscraper for Unsplash images, with resolution selection. Resolution options for a given search range from a width of ~100 pixels to ~2000 pixels. Can be used to find high-quality images for computer vision/ ML training sets. 
+A webscraper for Unsplash images with resolution selection. Resolution ranges vary from ~100 pixels to ~2000 pixels in width. Can be used to find high-quality images for computer vision/ ML training sets. 
 
 Current bugs/ minor issues: 
  - Although the scraper reportedly finds 60 images from a given search, only 20 are unique (we have 3 sets of the same images). 
