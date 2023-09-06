@@ -1,4 +1,4 @@
-# unsplash_webscraper
+# unsplash-web-scraper
 A webscraper for Unsplash images with resolution selection. Resolution ranges vary from ~100 pixels to ~2000 pixels in width. Can be used to find high-quality images for computer vision/ ML training sets. 
 
 Current bugs/ minor issues: 
